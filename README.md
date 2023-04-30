@@ -1,1 +1,1 @@
-# SumitaAuthenticationFramework
+# dotnet-core authentication
